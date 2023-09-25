@@ -1,0 +1,125 @@
+### Step 2A
+
+/Users/sarahsokoll
+
+### Step 2B
+
+cd desktop
+
+### Step 2C
+
+cd unit1-git-practice
+
+### Step 2D
+
+/Users/sarahsokoll/Desktop/unit1-git-practice
+
+### Step 2E
+
+ls
+
+### Step 2F
+
+my-steps.txt
+
+### Step 2G
+
+cd /
+
+### Step 2H
+
+/
+
+### Step 2I
+
+Applications	Volumes		etc		sbin
+Library		bin		home		tmp
+System		cores		opt		usr
+Users		dev		private		var
+
+### Step 2J
+
+cd
+
+### Step 2K
+
+cd desktop/unit1-git-practice
+
+### Step 3A
+
+mkdir veggies
+mkdir meats
+mkdir desserts
+
+### Step 3B
+
+mv desserts sweets
+
+### Step 3C
+
+mkdir proteins
+
+### Step 3D
+
+mv meats proteins
+
+### Step 3E
+
+cd veggies
+touch carrot.txt
+touch pea.txt
+
+### Step 3F
+
+cd
+cd desktop/unit1-git-practice
+cd sweets
+touch cookie.txt
+
+### Step 3G
+
+mv cookie.txt donut.txt
+
+### Step 3H
+
+touch thing.txt
+
+### Step 3I
+
+touch tofu.txt
+cp -r thing.txt tofu.txt
+
+### Step 3J
+
+mv tofu.txt proteins
+
+### Step 3K
+
+mv crab.txt proteins
+cd proteins
+mv crab.txt meats
+
+### Step 3L
+
+rm thing.txt
+
+### Step 3M
+
+cp -r
+
+### Step 3N
+
+mkdir drinks
+rm -r drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
